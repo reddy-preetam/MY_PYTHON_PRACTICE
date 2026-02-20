@@ -1,4 +1,4 @@
-class student:
+UMXD class student:
     def __init__(self,name,age,garde):
         self.name=name
         self.age=age
@@ -14,3 +14,4 @@ student1.student_details()
 student2.student_details()
 student3.student_details()
 print(student2.age,student1.name,student3.grade)
+
